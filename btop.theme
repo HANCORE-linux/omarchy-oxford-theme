@@ -20,14 +20,14 @@ theme[selected_fg]="#f3e9bd"
 theme[inactive_fg]="#2f3139"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#b7a593"
+theme[proc_misc]="#dd5544"
 
 # Box outline and divider line color
 theme[cpu_box]="#76856a"
 theme[mem_box]="#76856a"
 theme[net_box]="#76856a"
 theme[proc_box]="#76856a"
-theme[div_line]="#bda07f"
+theme[div_line]="#dd5544"
 
 # Gradient for all meters and graphs
 theme[temp_start]="#9b907f"
