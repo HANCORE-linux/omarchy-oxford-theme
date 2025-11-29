@@ -8,12 +8,23 @@
 
 @define-color hover #b49a7b;
 
+window .normal-icons,
+window .large-icons,
+window .item-image,
+window .symbols {
+    -gtk-icon-size: 24px;
+    min-width: 24px;
+    min-height: 28px;
+    padding: 2px;
+    margin: 2px;
+    display: inline-block;
+}
 
 window .search-container,
 window .search {
   background: alpha(@hover, 0.2);
   color: @foreground;
-  border: 1px solid alpha(#76856A, 0.9);
+  border: 1px solid alpha(#76856a, 0.5);
   border-radius: 1px;
   padding: 8px 12px;
   margin: 4px 0;
@@ -24,6 +35,10 @@ window .search {
 
 
 child:selected {
-  background: alpha(#76856A, 0.3);
+  background: alpha(#76856a, 0.2);
   border-radius: 1px;
+}
+
+window .box-wrapper {
+        line-height: 70%;
 }
