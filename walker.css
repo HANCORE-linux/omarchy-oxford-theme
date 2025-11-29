@@ -4,3 +4,26 @@
 @define-color border #d15646;
 @define-color foreground #d6d1c9;
 @define-color background #292b31;
+
+
+@define-color hover #b49a7b;
+
+
+window .search-container,
+window .search {
+  background: alpha(@hover, 0.2);
+  color: @foreground;
+  border: 1px solid alpha(#76856A, 0.9);
+  border-radius: 1px;
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+
+
+child:selected {
+  background: alpha(#76856A, 0.3);
+  border-radius: 1px;
+}
