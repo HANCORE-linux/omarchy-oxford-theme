@@ -6,9 +6,9 @@ Oxford brings the cozy atmosphere of a centuries-old reading room to your editor
 
 
 # Backgrounds
-![BG1](https://github.com/user-attachments/assets/c6a40e2a-a120-4636-a809-98d66eb555ef)
-![BG4](https://github.com/user-attachments/assets/4e64ed56-0eb1-4c1a-b266-6b3dea765548)
-![BG3](https://github.com/user-attachments/assets/576078e1-35ad-4a0d-a5f0-707645241b8c)
+<img width="400" height="600" src="https://github.com/user-attachments/assets/c6a40e2a-a120-4636-a809-98d66eb555ef"/>
+<img width="400" height="600" src="https://github.com/user-attachments/assets/4e64ed56-0eb1-4c1a-b266-6b3dea765548"/>
+<img width="400" height="600" src="https://github.com/user-attachments/assets/576078e1-35ad-4a0d-a5f0-707645241b8c"/>
 <img width="400" height="600" alt="6ce0279b35e88e4f74126ef49f424423" src="https://github.com/user-attachments/assets/762ca7f3-2d8c-4ef4-b6f6-3aa8b7af7808" />
 
 
