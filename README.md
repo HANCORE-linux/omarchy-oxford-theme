@@ -2,6 +2,8 @@
 Oxford brings the cozy atmosphere of a centuries-old reading room to your editor with its soft dark background, warm earthy accents, and carefully desaturated tones that feel gentle on the eyes during long coding sessions. Strings, comments, and UI elements are subtly distinguished yet never harsh, creating a calm and focused environment that invites deep concentration. Perfect for anyone who wants their Neovim to feel like a worn leather armchair: understated, timeless, and effortlessly sophisticated.
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-29_19-12-19" src="https://github.com/user-attachments/assets/fcfcbdf4-7652-46ff-979d-bcddbcbf3619" />
+<img width="2560" height="1440" alt="screenshot-2025-11-29_19-24-18" src="https://github.com/user-attachments/assets/e69bda53-14c4-4688-a7ce-f9afd0a8d548" />
+
 
 # Installation Theme
 
