@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for Oxford.
+# Opaque charcoal panels, the original red-olive active frame, and Walker's
+# restrained olive selection preserve the theme's sharp understated character.
+
+[bar]
+background = "#292B31"
+background-alpha = 1.0
+text = "#B49A7B"
+active = "#F3E9BD"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "rgba(d15646ee) rgba(748268ee) 45deg"
+active-border-foreground = "#D6D1C9"
+
+[controls]
+normal-color = "#646466"
+normal-fill-alpha = 0.12
+normal-border-width = 1
+normal-border-alpha = 0.46
+
+hover-cursor-color = "#D6D1C9"
+hover-cursor-fill-alpha = 0.12
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.62
+
+focus-color = "#D15646"
+focus-fill-alpha = 0.16
+focus-border-width = 1
+focus-border-alpha = 0.90
+
+selected-color = "#76856A"
+selected-fill-alpha = 0.20
+selected-border-width = 1
+selected-border-alpha = 0.58
+
+pressed-color = "#DD5544"
+pressed-fill-alpha = 0.24
+selection-color = "#BDA07F"
+selection-fill-alpha = 0.38
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#292B31"
+background-alpha = 1.0
+text = "#D6D1C9"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#292B31"
+background-alpha = 0.98
+text = "#D6D1C9"
+border = "#76856A"
+border-alpha = 0.80
+border-width = 1
+
+[notifications]
+background = "#292B31"
+background-alpha = 1.0
+text = "#D6D1C9"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#F3E9BD"
+
+[launcher]
+background = "#292B31"
+background-alpha = 1.0
+text = "#D6D1C9"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#292B31"
+scrim-alpha = 0.0
+selected-background = "#76856A"
+selected-background-alpha = 0.20
+selected-text = "#B49A7B"
+selected-border = "#76856A"
+selected-border-alpha = 0.0
+selected-border-width = 0
+
+[menu]
+background = "#292B31"
+background-alpha = 1.0
+text = "#D6D1C9"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#292B31"
+scrim-alpha = 0.0
+selected-background = "#76856A"
+selected-background-alpha = 0.20
+selected-text = "#B49A7B"
+selected-border = "#76856A"
+selected-border-alpha = 0.0
+selected-border-width = 0
+
+[polkit]
+background = "#292B31"
+background-alpha = 1.0
+text = "#D6D1C9"
+text-error = "#F28B7C"
+border = "hyprland.active-border"
+border-error = "#DD5544"
+border-alpha = 1.0
+border-width = 2
+scrim = "#292B31"
+scrim-alpha = 0.58
+accent = "#BDA07F"
+
+[lock]
+background = "#292B31"
+background-alpha = 1.0
+text = "#D6D1C9"
+placeholder = "#D6D1C9B3"
+text-error = "#F28B7C"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#DD5544"
+border-alpha = 1.0
+border-width = 2
+selection = "#BDA07F"
+selection-alpha = 0.40
+
+[image-picker]
+scrim = "#292B31"
+scrim-alpha = 0.58
+text = "#D6D1C9"
+selected-border = "#BDA07F"
+selected-border-alpha = 1.0
+unselected-border = "#646466"
+unselected-border-alpha = 1.0
